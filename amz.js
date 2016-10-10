@@ -5,10 +5,10 @@ $( document ).ready(function() {
 	}
 
 	function most1(tempe,dele) {
-	  return document.location.href="http://www.mostmalls.com/l/"+tempe/;
+	  return document.location.href="http://www.mostmalls.com/l/"+tempe;
 	}
 	function mostl(tempe,dele) {
-	  return document.location.href="http://www.mostmalls.com/l/"+tempe/;
+	  return document.location.href="http://www.mostmalls.com/l/"+tempe;
 	}
 
 });

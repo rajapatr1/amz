@@ -1,3 +1,4 @@
  function mosttk(tempe,dele) {
-   return window.location = "http://www.mostmalls.com/l/"+tempe;
+   window.location.href = "http://www.mostmalls.com/l/"+tempe;
+   return false;
 }
